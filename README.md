@@ -1,4 +1,4 @@
-<h1>Ticket Lifecycle Examples</h1>
+<h1>Ticket Lifecycle Example</h1>
 <p align="center"><img src="https://i.imgur.com/RPZ9Gws.png" height="50%" width="50%" alt="image"/>
 <br>
 <p> This tutorial outlines the lifecycle of a ticket, that is, the series of stages that a support ticket goes through from the moment it is created until it is closed and resolved.</p>

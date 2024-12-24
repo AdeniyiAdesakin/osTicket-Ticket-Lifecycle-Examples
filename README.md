@@ -8,7 +8,7 @@
 <p>Internet Information Services (IIS)</p>
 <p>osTicket</p>
 
-<h3*>Operating System Used</h3>
+<h3>*Operating System Used</h3>
 <p>Windows 11 Pro (24H2)</p>
 
 <h3>*Ticket Lifecycle Stages</h3>

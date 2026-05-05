@@ -14,7 +14,7 @@
 <h3>*Ticket Lifecycle Stages</h3>
 <p>1. Intake or Creation</p>
 <p>2. Ticket Assignment</p>
-<p>3. Ticket Acknowlegdement/Communication</p>
+<p>3. Ticket Acknowledgement/Communication</p>
 <p>4. Ticket Investigation and Diagnosis</p>
 <P>5. Solution Identification and Implementation</P>
 <p>6. Ticket Testing and Validation</p>

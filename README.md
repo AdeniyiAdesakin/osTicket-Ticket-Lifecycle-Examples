@@ -33,30 +33,14 @@ The request required prompt assessment, assignment, communication, troubleshooti
 
 ## Skills Demonstrated
 
-- Help desk ticket management
-- Incident intake and triage
-- Impact and urgency assessment
-- Priority and SLA administration
-- Ticket assignment and ownership
-- Customer communication
-- Troubleshooting documentation
-- Resolution validation
-- Ticket closure
-
-## Ticket Summary
-
-| Field | Details |
-| --- | --- |
-| Ticket number | `#691262` |
-| Requester | Ken |
-| Issue | Unable to open the company database application |
-| Initial priority | Normal |
-| Updated priority | Emergency |
-| Updated SLA | Sev-A, 1-hour grace period |
-| Assigned agent | Jane Doe |
-| Help topic | Report a Problem |
-| Final status | Resolved |
-| Resolution | Application updated and user access restored |
+- Help desk ticket management.
+- Incident intake and triage.
+- Impact and urgency assessment.
+- Priority and SLA administration.
+- Ticket assignment and ownership.
+- Clear communication with Client/employee.
+- Resolution validation.
+- Ticket closure.
 
 ## Ticket Lifecycle
 

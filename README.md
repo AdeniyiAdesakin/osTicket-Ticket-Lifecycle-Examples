@@ -171,7 +171,7 @@ I confirmed that:
 - A final resolution summary was entered.
 - The ticket was closed with a Resolved status.
 
-## Key Takeaways
+## Project Outcome
 
 This project demonstrated that effective ticket management involves more than changing a ticket’s status. Each stage creates accountability and ensures that users receive consistent support.
 
